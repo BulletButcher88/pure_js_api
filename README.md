@@ -1,7 +1,7 @@
 # IMDB API search with JS, HTML and CSS 
 #### API, Jquery project
 
-Accessing a VHS VS Netflix website would be cool, right? .... an idea for when I get a chance.. 
+Do you think a VHS VS Netflix website is a good idea? ....
 
 
 ![](images/loading.png)
