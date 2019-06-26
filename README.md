@@ -1,5 +1,5 @@
 # IMDB API search with JS, HTML and CSS 
-#### API, Jquery project I did while at General Assembly (2018)
+#### API, Jquery project
 
 Accessing a VHS VS Netflix website would be cool, right? .... an idea for when I get a chance.. 
 
